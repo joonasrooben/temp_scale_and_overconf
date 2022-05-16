@@ -4,4 +4,5 @@ Temperatuuri-skaleerimise skript on leitav (siit)[https://github.com/markus93/NN
 
 
 Autor: Joonas Järve
+
 Juhendaja: Meelis Kull, PhD
